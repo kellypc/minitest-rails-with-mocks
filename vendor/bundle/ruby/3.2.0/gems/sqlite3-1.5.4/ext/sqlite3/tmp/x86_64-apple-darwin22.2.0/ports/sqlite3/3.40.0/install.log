@@ -1,0 +1,15 @@
+ /usr/local/bin/gmkdir -p '/Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/lib'
+ /bin/sh ./libtool   --mode=install /usr/local/bin/ginstall -c   libsqlite3.la '/Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/lib'
+libtool: install: /usr/local/bin/ginstall -c .libs/libsqlite3.lai /Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/lib/libsqlite3.la
+libtool: install: /usr/local/bin/ginstall -c .libs/libsqlite3.a /Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/lib/libsqlite3.a
+libtool: install: chmod 644 /Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/lib/libsqlite3.a
+libtool: install: ranlib /Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/lib/libsqlite3.a
+ /usr/local/bin/gmkdir -p '/Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/bin'
+  /bin/sh ./libtool   --mode=install /usr/local/bin/ginstall -c sqlite3 '/Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/bin'
+libtool: install: /usr/local/bin/ginstall -c sqlite3 /Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/bin/sqlite3
+ /usr/local/bin/gmkdir -p '/Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/include'
+ /usr/local/bin/ginstall -c -m 644 sqlite3.h sqlite3ext.h '/Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/include'
+ /usr/local/bin/gmkdir -p '/Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/share/man/man1'
+ /usr/local/bin/ginstall -c -m 644 sqlite3.1 '/Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/share/man/man1'
+ /usr/local/bin/gmkdir -p '/Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/lib/pkgconfig'
+ /usr/local/bin/ginstall -c -m 644 sqlite3.pc '/Users/kelly/Apps/mocking-in-ruby-with-minitest/vendor/bundle/ruby/3.2.0/gems/sqlite3-1.5.4/ports/x86_64-apple-darwin22.2.0/sqlite3/3.40.0/lib/pkgconfig'
