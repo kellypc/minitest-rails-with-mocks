@@ -1,4 +1,4 @@
-require 'test_helper' 
+require 'test_helper'
 
 class SubscriptionServiceTest < ActiveSupport::TestCase
   test '#create_or_extend new subscription' do

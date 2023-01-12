@@ -1,5 +1,5 @@
 class SubscriptionService
-  SUBSCRIPTION_LENGTH =  1.month
+  SUBSCRIPTION_LENGTH = 1.month
 
   def initialize(user)
     @user = user
@@ -21,7 +21,7 @@ class SubscriptionService
       expires_at: SUBSCRIPTION_LENGTH.from_now
     )
 
-    subscription.save.
+    subscription.save
   end
 
   def extend_subscription
